@@ -1,0 +1,42 @@
+h1{
+    color: blue;
+    text-align: left;
+    font-style: italic;
+}
+h2{
+    color: red;
+    text-align: center;
+    font-style: italic;
+}
+h3{
+    color: green;
+    text-align: right;
+    font-style: italic;
+}
+h4{
+    color: orange;
+    text-align: left;
+    font-style: italic;
+}
+h5{
+    color: purple;
+    text-align: center;
+    font-style: italic;
+}
+h6{
+    color: rgb(217, 18, 18);
+    text-align: right;
+    font-style: italic;
+}
+button{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
